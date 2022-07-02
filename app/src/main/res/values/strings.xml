@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">H-App</string>
+    <string name="str_h_logo_desc">H Logo</string>
+    <string name="str_sign_in">Sign In</string>
+    <string name="str_sign_up">Sign Up</string>
+    <string name="str_username">Enter Email</string>
+    <string name="str_password">Enter Password</string>
+    <string name="str_password2">Re-enter Password</string>
+    <string name="str_add_img_desc">Add Image</string>
+    <string name="str_scrollview_desc">Scrollview</string>
+    <string name="str_cancel_img_desc">Cancel Image</string>
+    <string name="str_save_img_desc">Save Image</string>
+</resources>
